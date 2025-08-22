@@ -11,7 +11,7 @@ It allows admins to create events, manage participants, track schedules, and pro
 - Admin dashboard for organizers  
 - Responsive & user-friendly interface  
 
-**Tech Stack ** 
+**Tech Stack** 
 
 - **Frontend:** React, CSS, Vite (React/Angular/Vue if applicable)  
 - **Backend:** Node.js / Supabase
